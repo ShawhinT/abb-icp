@@ -1,0 +1,5 @@
+The following files were removed because of PII.
+- activity.csv: merged student engagement data across all cohort
+- reviews.csv: merged course reveiw data across all cohorts
+- students.csv: merged student data across all cohorta
+- company_sizes.csv: cache of company size data from OpenAI responses API call

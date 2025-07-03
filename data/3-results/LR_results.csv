@@ -1,0 +1,3 @@
+Target,Train_Accuracy,Test_Accuracy,|Accuracy_Delta|,Train_ROC_AUC,Test_ROC_AUC,|ROC_AUC_Delta|,Train_F1,Test_F1,|F1_Delta|
+rating_gte_10,0.766,0.786,0.02,0.789,0.759,0.029,0.651,0.625,0.026
+rating_exists,0.75,0.679,0.071,0.793,0.603,0.191,0.68,0.526,0.154

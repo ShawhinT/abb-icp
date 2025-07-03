@@ -1,0 +1,4 @@
+The following directories were removed because of PII.
+- activity: student engagement data from Maven
+- reviews: course reveiw data
+- students: student data from Maven
