@@ -49,7 +49,12 @@ abb-icp/
 │ └── 4-icp/ # Final ICP documents
 ├── utils/ # Helper functions
 ├── prompts/ # AI prompt templates
-└── notebooks/ # Analysis notebooks
+├── 1-data_prep.ipynb # Data preparation notebook
+├── 2-feature_engineering.ipynb # Feature engineering notebook
+├── 3-icp_analysis.ipynb # ICP analysis notebook
+├── 4-predictor_analysis.ipynb # Predictor analysis notebook
+└── 5-create_icp.ipynb # ICP generation notebook
+
 ```
 
 ## Results
