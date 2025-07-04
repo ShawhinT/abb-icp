@@ -1,6 +1,6 @@
 # Ideal Customer Profile (ICP) Analysis
 
-This repository contains code for creating an Ideal Customer Profile (ICP) for my AI Builders Bootcamp. It uses real student data (e.g. job title, company, join reason) to predict the user engagement and course KPIs. The results are then synthesized into a [final ICP](https://github.com/ShawhinT/abb-icp/blob/main/data/4-icp/icp.md), which can be repurposed for copywriting and sales.
+This repository contains code for creating an Ideal Customer Profile (ICP) for my AI Builders Bootcamp. It uses real student data (e.g. job title, company, join reason) to predict the user engagement and course KPIs. The results are then synthesized into a [final ICP](https://github.com/ShawhinT/abb-icp/blob/main/data/4-icp/icp.md), which can be repurposed for sales and marketing.
 
 **Resources**
 - [YouTube Video]
